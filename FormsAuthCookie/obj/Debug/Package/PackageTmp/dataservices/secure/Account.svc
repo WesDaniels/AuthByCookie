@@ -1,1 +1,0 @@
-﻿<%@ ServiceHost Language="C#" Debug="true" Service="FormsAuthCookie.dataservices.secure.Account" CodeBehind="Account.svc.cs" %>
