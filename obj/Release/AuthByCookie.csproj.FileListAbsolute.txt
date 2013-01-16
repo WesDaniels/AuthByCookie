@@ -1,0 +1,5 @@
+C:\Users\wdaniels\Desktop\WebApp\FormsAuthCookie\FormsAuthCookie\bin\FormsAuthCookie.dll
+C:\Users\wdaniels\Desktop\WebApp\FormsAuthCookie\FormsAuthCookie\bin\FormsAuthCookie.pdb
+C:\Users\wdaniels\Desktop\WebApp\FormsAuthCookie\FormsAuthCookie\obj\Release\ResolveAssemblyReference.cache
+C:\Users\wdaniels\Desktop\WebApp\FormsAuthCookie\FormsAuthCookie\obj\Release\FormsAuthCookie.dll
+C:\Users\wdaniels\Desktop\WebApp\FormsAuthCookie\FormsAuthCookie\obj\Release\FormsAuthCookie.pdb
